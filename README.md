@@ -100,4 +100,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This `README.md` file should provide a comprehensive overview of your project, including the analysis process, key findings, and how to use the notebook.
